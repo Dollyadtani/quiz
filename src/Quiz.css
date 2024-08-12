@@ -1,0 +1,14 @@
+.correct{
+    background-color: rgb(192, 245, 192);
+    border-color: green;
+}
+.wrong{
+    background-color: rgb(238, 175, 175);
+    border-color: red;
+}
+.col-md-6{
+    background-color: #EECAD5;
+}
+.button{
+    background-color:#D1E9F6;
+}
